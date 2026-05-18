@@ -76,6 +76,7 @@ Test Files  1 passed (1)
 ```
 
 All tests passing ✓
+<img width="1509" height="1057" alt="image" src="https://github.com/user-attachments/assets/e4b9e938-5b3a-466d-9144-977254f524a6" />
 
 ## Project Structure
 
